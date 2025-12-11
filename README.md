@@ -4,6 +4,12 @@ Disease outbreaks in pig and poultry farms cause losses and threaten food securi
 # 🐖🐓 Digital Farm Management Platform  
 🌐 [Watch the live site here](https://harshine-s.github.io/DigiFarm/)
 
+## 👥 Team Members
+- **Harshine** – @HARSHINE-S
+- **Maha** – @MAHA1302
+- **Jerismary** – @JERISMARY  
+**Big thanks to all the contributors who made this project possible!**
+
 ✨ Features
 - Farm Registration & Management
 - Add, view, and delete farms
