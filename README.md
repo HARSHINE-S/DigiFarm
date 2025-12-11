@@ -55,6 +55,8 @@ Disease outbreaks in pig and poultry farms cause losses and threaten food securi
  ├── app.py
  ├── logo.jpg
  └── ba.jpg
+
+ 
  🛠 Tech Stack
 Frontend
 - HTML5
@@ -65,6 +67,8 @@ Backend
 - SMTP (Gmail) for email alerts
 Storage
 - LocalStorage / JSON (upgradeable to DB)
+
+  
 🚀 Future Improvements
 - Integration with MySQL / MongoDB
 - Dedicated mobile app
