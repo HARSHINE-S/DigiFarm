@@ -1,6 +1,9 @@
 # DigiFarm
 Disease outbreaks in pig and poultry farms cause losses and threaten food security. Our Integrated Digital Biosecurity Platform offers QR-based visitor/vehicle control, health tracking, alerts, multilingual support, and emergency reporting to boost resilience and rural growth.
 
+# 🐖🐓 Digital Farm Management Platform  
+🌐 [Watch the live site here](https://harshine-s.github.io/DigiFarm/)
+
 ✨ Features
 - Farm Registration & Management
 - Add, view, and delete farms
