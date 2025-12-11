@@ -69,9 +69,3 @@ Storage
 - LocalStorage / JSON (upgradeable to DB)
 
   
-🚀 Future Improvements
-- Integration with MySQL / MongoDB
-- Dedicated mobile app
-- Real-time health prediction (AI/ML)
-- Auto CAPA follow-up reminders
-- Multi-language support
